@@ -1,0 +1,2 @@
+# ConsolaDado
+DadoRandom
